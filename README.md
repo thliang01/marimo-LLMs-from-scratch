@@ -11,6 +11,15 @@
 [![Language](https://img.shields.io/badge/Language-English%20%7C%20%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-orange)](README.md)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green)](LICENSE)
 
+<!-- Table of Contents -->
+<p align="center">
+  <a href="#-about-the-project">About</a> •
+  <a href="#-getting-started">Getting Started</a> •
+  <a href="#-chapters">Chapters</a> •
+  <a href="#-why-marimo">Why Marimo</a> •
+  <a href="#-license">License</a>
+</p>
+
 </div>
 
 ---
@@ -115,7 +124,7 @@ Contributions are welcome! Please feel free to submit issues or pull requests.
 
 ## 📄 License
 
-This project follows the license of the original [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) repository.
+This project is licensed under the [Apache License 2.0](LICENSE). It is based on the original work from [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) by Sebastian Raschka.
 
 ---
 
