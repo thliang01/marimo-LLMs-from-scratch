@@ -1,5 +1,7 @@
 # marimo-LLMs-from-scratch
 
+![marimo LLMs from scratch banner](images/marimo-read-llmfromscratch-banner.jpeg)
+
 Implement a ChatGPT-like LLM in PyTorch from scratch, step by step with marimo
 
 This repository provides interactive [marimo](https://marimo.io) notebook implementations of the "Build a Large Language Model From Scratch" book by Sebastian Raschka, with Traditional Chinese (繁體中文) translations.
